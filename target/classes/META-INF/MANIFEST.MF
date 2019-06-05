@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: srpingHello
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yuer
+Implementation-Vendor-Id: com.yuer.hello
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/srpingHello/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

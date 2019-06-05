@@ -23,6 +23,7 @@ public class HellowWord {
 	public Map<String, Object> showHelloWorld(){
 		Map<String, Object> map = new HashMap<String, Object>();
 		map.put("msg", "Hello,SpringBoot");
+		map.put("info","  Spring Boot 《一》开发一个“HelloWorld”的 web 应用");
 		return map;
 	}
 }
